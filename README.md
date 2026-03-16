@@ -1,18 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=GemBot%20AI&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Powerful%20Multi-Language%20Telegram%20AI%20Bot%20Powered%20by%20Google%20Gemini&descAlignY=55&descSize=15"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=GemBot%20AI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Gemini-Powered%20Telegram%20AI%20Assistant&descAlignY=55&descSize=15"/>
 </div>
+
+
 
 <p align="center">
   <a href="https://github.com/salman-dev-app/GemBot-Ai">
-    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=80&lines=AI+Powered+Telegram+Bot;Google+Gemini+Inside" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Gemini+AI+Telegram+Bot;Multi-Language+AI+Assistant" alt="Typing SVG" />
   </a>
 </p>
 
+
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Google_Gemini_AI-FF6B6B-FF6B6B?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3.9+-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Google_Gemini-4ECDC4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Telegram-00D9FF?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/github/last-commit/salman-dev-app/GemBot-Ai?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/salman-dev-app/GemBot-Ai?style=for-the-badge&color=4ECDC4&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/forks/salman-dev-app/GemBot-Ai?style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -20,7 +24,7 @@
 <div align="center">
   <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" style="vertical-align: middle;" />
-    GemBot AI — Powerful Multi-Language Telegram AI Bot Powered by Google Gemini
+    A powerful, multi-language Telegram bot powered by Google Gemini AI — featuring a complete admin panel, group membership controls, and a user-friendly interface.
   </h3>
 </div>
 
@@ -29,34 +33,30 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="30" height="30" style="vertical-align: middle;" /> Quick Links
 
 <p align="center">
+  <a href="mailto:mdsalmanhelp@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Send_Email-FF6B6B?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
   <a href="https://github.com/salman-dev-app/GemBot-Ai">
-    <img src="https://img.shields.io/badge/Source_Code-View_on_GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:mdsalmanhelp0@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Send_Email-4ECDC4?style=for-the-badge&logo=minutemailer&logoColor=white" />
-  </a>
-  <a href="https://github.com/salman-dev-app">
-    <img src="https://img.shields.io/badge/Portfolio-View_More_Projects-00D9FF?style=for-the-badge&logo=codesandbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Source-View_Code-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Lightbulb" width="30" height="30" style="vertical-align: middle;" /> About The Project
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" style="vertical-align: middle;" /> Core Features & Capabilities
 
-<p>
-Powerful Multi-Language Telegram AI Bot Powered by Google Gemini. This project is built with performance, scalability, and clean code in mind, following enterprise-level standards.
-</p>
+<div align="center">
 
----
+### Project Highlights
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="30" height="30" style="vertical-align: middle;" /> Key Features
+</div>
 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Gemini AI Integration</strong> — Powered by Google's Gemini API for intelligent conversations</p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Multi-Language Support</strong> — Communicate in multiple languages seamlessly</p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Admin Panel</strong> — Complete admin dashboard for user and group management</p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Membership Management</strong> — Control group access with intelligent membership gates</p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>User Friendly UI</strong> — Intuitive inline buttons and rich text responses</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Gemini AI</strong> — Powered by Google's latest Gemini API for intelligent responses</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Multi-Language</strong> — Supports multiple languages for global user base</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Admin Panel</strong> — Complete admin panel for bot management and configuration</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Group Management</strong> — Membership verification and group access control</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>User-Friendly UI</strong> — Inline keyboards and rich message formatting</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Access Control</strong> — Subscription/membership-based feature access</p>
 
 ---
 
@@ -64,43 +64,55 @@ Powerful Multi-Language Telegram AI Bot Powered by Google Gemini. This project i
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,telegram,googlecloud&theme=dark" />
+### Backend
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
+<br/>### AI
+<img src="https://skillicons.dev/icons?i=google&theme=dark" />
+
+<br/>### Tools
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+
+<br/>
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="vertical-align: middle;" /> Getting Started
-
-### Prerequisites
-
-Make sure you have the required tools installed before running this project.
-
-### Installation
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="vertical-align: middle;" /> Installation & Setup
 
 ```bash
-# Clone the repository
 git clone https://github.com/salman-dev-app/GemBot-Ai.git
 cd GemBot-Ai
-
-# Install dependencies
 pip install -r requirements.txt
 
-# Configure your tokens
-cp config.example.py config.py
-# Add your BOT_TOKEN and GEMINI_API_KEY
+# Set environment variables
+export BOT_TOKEN="your_telegram_bot_token"
+export GEMINI_API_KEY="your_gemini_api_key"
+export ADMIN_IDS="123456789,987654321"
 
-# Run the bot
 python bot.py
 ```
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="30" height="30" style="vertical-align: middle;" /> Repository Stats
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salman-dev-app&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4" alt="Activity Graph" width="100%" >
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" height="35" style="vertical-align: middle;" />
+    Let's Build Together
+  </h2>
 </div>
+
+<p align="center">
+  <a href="mailto:mdsalmanhelp@gmail.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Available+for+New+Opportunities;Open+to+Freelance+Contracts;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:mdsalmanhelp@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-Send_an_Email-63A4FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -113,37 +125,18 @@ python bot.py
 </div>
 
 <p align="center">
-  This project is licensed under the MIT License — feel free to use, modify, and distribute.
+  This project is licensed under the MIT License — feel free to use, modify, and contribute.
 </p>
-
----
-
-<div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party" width="30" height="30" style="vertical-align: middle;" />
-    Let's Connect & Collaborate
-  </h2>
-</div>
-
-<p align="center">
-  <a href="https://github.com/salman-dev-app">
-    <img src="https://img.shields.io/badge/VISIT-MY_GITHUB_PROFILE-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Made+with+Passion+by+Md+Salman+Biswas;Thanks+for+checking+this+out!;Star+%E2%AD%90+if+you+find+it+useful!" alt="Typing SVG" />
-</div>
-
-<br/>
 
 ---
 
 <footer align="center">
   <p>© 2024-2026 Md Salman Biswas · All rights reserved</p>
-  <a href="https://github.com/salman-dev-app">
-    <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" />
-  </a>
+  <p>
+    <a href="https://github.com/salman-dev-app">
+      <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" style="vertical-align: middle;">
+    </a>
+  </p>
   <p>Engineered by <a href="https://github.com/salman-dev-app">Md Salman Biswas</a></p>
 </footer>
 
